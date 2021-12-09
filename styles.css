@@ -131,3 +131,22 @@ transform: scale(2);
     transform: translateY(-10px);
     transition: 1s;
   }
+
+  h3{
+    text-align: center;
+}
+
+.slider img
+{
+    width: 100%;
+    margin-top: 15px;
+    box-shadow: -4px 4px 5px 0 #702727;
+    cursor: pointer;
+    transition: 0.5s;
+    position: relative;
+}
+.slider img:hover{
+    transform: translateY(-20px);
+}
+
+  
