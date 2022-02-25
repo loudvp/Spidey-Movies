@@ -5,7 +5,7 @@
 }
 body
 {
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(image/1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(image/2B.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -18,7 +18,7 @@ body
 .logo
 {
     width: 150px;
-    margin-top: 18px;
+    margin-top: 0px;
 }
 .header
 {
@@ -82,22 +82,22 @@ body
 {
     color: #fff;
 }
+.series h1
+{
+    color: #fff;
+}
+.series h4
+{
+    color: #fff;
+}
+.series h6
+{
+    color: #fff;
+}
+
 .series img
 {
-    width: 100%;
-    margin-top: 15px;
-    box-shadow: -4px 4px 5px 0 #747575;
-    cursor: pointer;
-    transition: 0.5s;
-    position: relative;
-}
-.series img:hover{
-    transform: translateY(-20px);
-}
-.playButtons{display: none}
 
-.transformar:hover{
-transform: scale(2);
 }
 
 
